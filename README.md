@@ -1,5 +1,18 @@
-## Hi there 👋
+# Salutations!
 
+
+ ⚡ Experience with:
+  - C++, Python, JS/TS, Bash, Rust...
+  - React/React-Native
+  - Linux (Arch btw)
+  - Qt (C++)
+  - Much more
+
+
+❤️ Arch Linux\
+❤️ Neovim/Neovide\
+❤️ Tmux\
+❤️ Hyprland
 <!--
 **rexept/rexept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
