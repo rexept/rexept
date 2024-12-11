@@ -1,4 +1,4 @@
-# Salutations!
+# Salutations!  👋
 
 
  ⚡ Experience with:
