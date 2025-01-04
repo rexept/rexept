@@ -15,6 +15,8 @@
 ❤️ Tmux\
 ❤️ FOSS\
 ❤️ Hyprland
+
+In possession of a 2000-line hand-written neovim config...
 <!--
 **rexept/rexept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
