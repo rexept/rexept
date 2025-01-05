@@ -16,6 +16,6 @@
 ❤️ FOSS\
 ❤️ Hyprland
 
-In possession of a 2000-line hand-written neovim config...
+In possession of a 2700-line hand-written neovim config...
 ---
-![Neovim Config](./assets/nvim_config_lines.png)
+![Neovim Config](./assets/nvim_config_lines1.png)
