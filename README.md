@@ -2,7 +2,7 @@
 
 
  ⚡ Experience with:
-  - C++, Python, JS/TS, Bash, Rust...
+  - C, C++, Python, JS/TS, Bash, Rust...
   - React/React-Native
   - Firebase
   - Linux (Arch btw)
