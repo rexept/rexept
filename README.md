@@ -11,8 +11,7 @@
 
 
 ❤️ Arch Linux\
-❤️ Neovim/Neovide\
-❤️ Tmux\
+❤️ Neovim\
 ❤️ FOSS\
 ❤️ dwm
 
