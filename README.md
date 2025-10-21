@@ -14,7 +14,7 @@
 ❤️ Neovim/Neovide\
 ❤️ Tmux\
 ❤️ FOSS\
-❤️ Hyprland
+❤️ dwm
 
 <details>
 
