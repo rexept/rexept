@@ -4,7 +4,8 @@
  ⚡ Experience with:
   - C, C++, Python, JS/TS, Bash, Rust...
   - React/React-Native
-  - Firebase
+  - Next.js
+  - Supabase/Firebase
   - Linux (Arch btw)
   - Qt (C++)
   - Much more
