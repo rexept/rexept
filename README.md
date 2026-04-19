@@ -6,12 +6,13 @@
   - React/React-Native
   - Next.js
   - Supabase/Firebase
-  - Linux (Arch btw)
+  - Linux (Gentoo btw)
   - Qt (C++)
   - Much more
 
 
-❤️ Arch Linux\
+❤️ Gentoo Linux\
+❤️ Artix Linux\
 ❤️ Neovim\
 ❤️ FOSS\
 ❤️ dwm
