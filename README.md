@@ -6,7 +6,7 @@
   - React/React-Native
   - Next.js
   - Supabase/Firebase
-  - Linux (Gentoo btw)
+  - Linux (Gentoo, Artix, Arch, Debian)
   - Qt (C++)
   - Much more
 
