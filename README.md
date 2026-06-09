@@ -28,6 +28,6 @@
 
 [![rexept's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexept&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-*Note: This only displays public Github commits (Not private, or local Gitea)
+*Note: This only displays public GitHub activity (Not private, or local Gitea)
 
 **Bitcoin (BTC) Address: bc1ququqn507lx8n9j4wklkq7wrlcp0gl8k592j3dm**
