@@ -26,7 +26,7 @@
 ![Neovim Config](./assets/nvim_config_lines1.png)
 </details>
 
-[![rexept's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexept&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![rexept's GitHub stats](https://github-stats-extended.vercel.app/api?username=rexept&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 *Note: This only displays public GitHub activity (Not private, or local Gitea)
 
