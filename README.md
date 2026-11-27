@@ -21,9 +21,9 @@
 
 <summary>My Neovim Insanity</summary>
 
-# In possession of a 2700-line hand-written neovim config...
+# In possession of a 3000-line hand-written neovim config...
 
-![Neovim Config](./assets/nvim_config_lines1.png)
+![Neovim Config](./assets/nvim_config_lines.png)
 </details>
 
 **Bitcoin (BTC) Address: bc1ququqn507lx8n9j4wklkq7wrlcp0gl8k592j3dm**
